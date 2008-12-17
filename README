@@ -1,0 +1,2 @@
+/****************************************//* PHP	 Copyright 2008 Red Tettemer.	 redtettemer.com	 	 @langversion PHP 5.0	 	 @author 	J Marziani	 @since 	05.11.2008	 	 --	 @revisions	 none so far, champ.	 */16 Bugs Class.PHP class to use 16bugs.com Issue Tracking API.
+Great for issue tracking from Flash/Flex/AIR applications.
